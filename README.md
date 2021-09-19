@@ -1,5 +1,7 @@
+# This is only a modification!
+
 # Original project
-This is only a modification! | https://github.com/Raymo111/kahoot-answer-bot
+https://github.com/Raymo111/kahoot-answer-bot
 
 # Kahoot Answer Bot
 A bot that takes the name or ID of a kahoot and gets a perfect score with the nickname of your choosing.

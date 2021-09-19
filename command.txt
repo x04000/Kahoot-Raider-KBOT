@@ -1,0 +1,1 @@
+python kbot -p PIN -n NAMEBOT -i QUIZID
